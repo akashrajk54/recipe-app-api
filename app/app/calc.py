@@ -8,6 +8,6 @@ def add(x,y):
     return x + y
 
 
-def substract(x,y):
-    """Substract x and y and return result."""
-    return y-x
+def subtract(x,y):
+    """subtract x and y and return result."""
+    return y - x
